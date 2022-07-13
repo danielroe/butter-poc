@@ -13,7 +13,7 @@
                 class="mb-6 inline-block max-w-[160px]"
               >
                 <img
-                  src="assets/images/logo/logo-white.svg"
+                  src="~/assets/images/logo/logo-white.svg"
                   alt="logo"
                   class="max-w-full"
                 />
@@ -223,7 +223,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/tailgrids.svg"
+                      src="~/assets/images/footer/brands/tailgrids.svg"
                       alt="tailgrids"
                     />
                   </a>
@@ -236,7 +236,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/ayroui.svg"
+                      src="~/assets/images/footer/brands/ayroui.svg"
                       alt="ayroui"
                     />
                   </a>
@@ -249,7 +249,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/ecommerce-html.svg"
+                      src="~/assets/images/footer/brands/ecommerce-html.svg"
                       alt="ecommerce-html"
                     />
                   </a>
@@ -262,7 +262,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/graygrids.svg"
+                      src="~/assets/images/footer/brands/graygrids.svg"
                       alt="graygrids"
                     />
                   </a>
@@ -275,7 +275,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/lineicons.svg"
+                      src="~/assets/images/footer/brands/lineicons.svg"
                       alt="lineicons"
                     />
                   </a>
@@ -288,7 +288,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/uideck.svg"
+                      src="~/assets/images/footer/brands/uideck.svg"
                       alt="uideck"
                     />
                   </a>
@@ -349,11 +349,11 @@
 
       <div>
         <span class="absolute left-0 top-0 z-[-1]">
-          <img src="assets/images/footer/shape-1.svg" alt="" />
+          <img src="~/assets/images/footer/shape-1.svg" alt="" />
         </span>
 
         <span class="absolute bottom-0 right-0 z-[-1]">
-          <img src="assets/images/footer/shape-3.svg" alt="" />
+          <img src="~/assets/images/footer/shape-3.svg" alt="" />
         </span>
 
         <span class="absolute top-0 right-0 z-[-1]">

@@ -113,7 +113,7 @@ defineProps<{
                   class="ud-testimonial-image mr-5 h-[50px] w-[50px] overflow-hidden rounded-full"
                 >
                   <img
-                    src="assets/images/testimonials/author-01.png"
+                    src="~/assets/images/testimonials/author-01.png"
                     alt="author"
                   />
                 </div>

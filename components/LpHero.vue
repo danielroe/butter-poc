@@ -42,7 +42,7 @@ defineProps<{
               </ul>
               <div class="wow fadeInUp text-center" data-wow-delay=".3s">
                 <img
-                  src="assets/images/hero/brand.svg"
+                  src="~/assets/images/hero/brand.svg"
                   alt="image"
                   class="mx-auto w-full max-w-[250px] opacity-50 transition duration-300 ease-in-out hover:opacity-100"
                 />

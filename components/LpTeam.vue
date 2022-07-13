@@ -29,7 +29,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-01.png"
+                  src="~/assets/images/team/team-01.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
@@ -519,7 +519,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-02.png"
+                  src="~/assets/images/team/team-02.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
@@ -1007,7 +1007,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-03.png"
+                  src="~/assets/images/team/team-03.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
@@ -1497,7 +1497,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-01.png"
+                  src="~/assets/images/team/team-01.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
